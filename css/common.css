@@ -6,7 +6,7 @@ body{background:#fff;color:#333;font-size:14px;font-family:"Microsoft Yahei","Si
 ul,ol{list-style-type:none;} 
 select,input,img,select{vertical-align:middle;}
 input, textarea, select { outline: none; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
-
+div, section { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;}
 em {font-style: normal;font-weight: normal;}
 a{text-decoration:none;} 
 a:visited,a:hover,a:active,a:focus,a:link{color:#333;}
