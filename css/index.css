@@ -174,8 +174,7 @@ header {
 center {
 	width: 1170px;
 	min-height: 500px;
-	margin: 0 auto;
-	margin-top: 120px;
+	margin: 120px auto;
 }
 /*			第一块内容部分		*/
 .content_01 {
@@ -302,4 +301,27 @@ center {
 }
 .floor_right .floor_title {
 	color: #ffffff;
+}
+
+.load_more {
+	margin-top: 100px;
+	text-align: center;
+}
+.load_more a {
+	display: inline-block;
+	line-height: 50px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #eb2e4a;
+	vertical-align: top;
+}
+.load_txt {
+	width: 165px;
+	height: 50px;
+	margin-left: 5px;
+}
+.load_plus {
+	width: 50px;
+	height: 50px;
+	font-size: 18px;
 }
